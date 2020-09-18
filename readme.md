@@ -1,4 +1,4 @@
-# Transcribe Recordings Using IBM Waston
+# Let IBM Watson Transcribe Your Audio Recordings
 
 ### What it does
 
