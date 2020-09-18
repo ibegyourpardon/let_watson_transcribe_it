@@ -1,6 +1,6 @@
 # Let IBM Watson Transcribe Your Audio Recordings
 
-### What it does
+## What it does
 
 When you have all the presrequisites and credentials ready (see below), it's as simple as it looks:
 
@@ -17,7 +17,7 @@ When you have all the presrequisites and credentials ready (see below), it's as 
 
 <img src="documentation/img/segs.png" height="300px">
 
-### How you can use it
+## How you can use it
 
 **These other programs and packages are needed**
 
@@ -37,7 +37,7 @@ If you already have an account, you'll be able to fetch your `API Key` and `URL`
 
 Click on it and then “view full details”. Now you can download the credentials as shown in the image below. Put the credentials file (`ibm-credentials.env`) in the same folder as this program. (You can also manually copy and paste the `API Key` and `URL` somewhere. And manually paste into the program later.)
 
-### Samples
+## Samples
 
 I transcribed two sample recordings using this program. The resulting full text and segments of audio are found in the [the documentation folder](/documentation/).
 
