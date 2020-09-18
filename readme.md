@@ -4,18 +4,18 @@
 
 When you have all the presrequisites and credentials ready (see below), it's as simple as it looks:
 
-<img src="documentation/img/gui.png" height="200px">
+<img src="documentation/img/gui.png" height="300px">
 
 1. Choose a recording in either MP3, WAV or OGG format;
 2. Choose a language. Supported languages include Arabic, German, English (Australia, UK, US), Spanish (Argentina, Spain, Chile, Colombia, Mexico, Peru), French (Canada, France), Italian, Japanese, Korean, Dutch, Portuguese (Brazil) and Chinese (Mandarin).
 3. Click `Start` and wait a few minutes, depending on how large your recording file is.
 4. You'll get a bunch of `.mp3` files. These are the segments of your original recording, cut and named according to time stamps, that loosely corresponds to sentences.
 
-<img src="documentation/img/files.png" height="250px">
+<img src="documentation/img/files.png" height="350px">
 
 5. You'll also get a file called `_fulltext.txt` which looks like this. Time stamps of the beginning and end of each segment, followed by the words spoken during that segment. 
 
-<img src="documentation/img/segs.png" height="200px">
+<img src="documentation/img/segs.png" height="300px">
 
 ### How you can use it
 
